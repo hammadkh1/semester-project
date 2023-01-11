@@ -1,0 +1,3 @@
+Queue: [{'Name': 'ali', 'Email': 'ali@gmail.com', 'Phone': 858483, 'No. of Members': 2, 'Check In': '1/1/23', 'Check Out': '1/1/23', 'Room': 'Deluxe', 'Bill': 7000}]
+Queue: [{'Name': 'ali', 'Email': 'ali@gmail.com', 'Phone': 13413, 'No. of Members': 2, 'Check In': '1/10/23', 'Check Out': '1/12/23', 'Room': 'Gold', 'Bill': 18000}]
+Queue: [{'Name': 'hasn', 'Email': 'hasn@gmail.com', 'Phone': 14666, 'No. of Members': 3, 'Check In': '1/10/23', 'Check Out': '1/13/23', 'Room': 'Platinum', 'Bill': 28000}]
